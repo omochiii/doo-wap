@@ -1,0 +1,8 @@
+<svg id="コンポーネント_3_3" data-name="コンポーネント 3 – 3" xmlns="http://www.w3.org/2000/svg" width="160.856" height="120" viewBox="0 0 160.856 120">
+  <text id="MENU" transform="translate(60 69)" fill="#fff" font-size="20" font-family="Helvetica" letter-spacing="0.03em"><tspan x="-30.343" y="0">MENU</tspan></text>
+  <g id="楕円形_1" data-name="楕円形 1" fill="none" stroke="#fff" stroke-width="3">
+    <circle cx="60" cy="60" r="60" stroke="none"/>
+    <circle cx="60" cy="60" r="58.5" fill="none"/>
+  </g>
+  <path id="パス_55" data-name="パス 55" d="M1285.92,1282.334h48l-8.726-8" transform="translate(-1176.92 -1221.334)" fill="none" stroke="#fff" stroke-width="3"/>
+</svg>
