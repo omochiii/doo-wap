@@ -1999,3 +1999,18 @@ footer{
   min-height: 740px;
   min-width: 1400px;
 }
+
+.about-page{
+  min-height: 1569px;
+  min-width: 1400px;
+  background-color: #FFF7E6;
+  background-image: url("../images/page-back.jpg");
+  background-repeat: no-repeat;
+}
+
+.about-page-title{
+  color: #fff;
+  font-size: 60px;
+  padding-top: 134px;
+  margin-left: 160px;
+}
