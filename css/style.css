@@ -1767,3 +1767,235 @@ footer{
   padding-top: 160px;
   margin-left: 1031px;
 }
+
+/* menu-page */
+
+.menu-page{
+  min-height: 1568px;
+  min-width: 1400px;
+  position: relative;
+  background-color: #FFF7E6;
+}
+
+.menu-list{
+  background-color: #C30013;
+  width: 1400px;
+  height: 80px;
+}
+.menu-list ul{
+  display: flex;
+  padding-top: 37px;
+  margin-left: 180px;
+}
+
+.menu-list li{
+  font-size: 16px;
+  padding-right: 46px;
+  color: #fff;
+}
+
+.menu-page-title{
+  font-size: 36px;
+  color: #C30013;
+  padding-top: 86px;
+  margin-left: 160px;
+}
+
+.chicken-burger-menu1{
+  width: 344px;
+  height: 384px;
+  background-color: #fff;
+  border: solid 3px #c30013;
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 40px;
+  position: absolute;
+  margin-top: 41px;
+  margin-left: 160px;
+}
+
+.chicken-burger-menu-title{
+  color: #C30013;
+  font-size: 20px;
+}
+
+.chicken-burger-menu-sub{
+  color: #C30013;
+  font-size: 14px;
+}
+
+.chicken-burger-menu-price{
+  padding-top: 15px;
+  font-size: 32px;
+}
+
+.chicken-burger-menu2{
+  width: 344px;
+  height: 384px;
+  background-color: #fff;
+  border: solid 3px #c30013;
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 40px;
+  position: absolute;
+  margin-top: 41px;
+  margin-left: 528px;
+}
+
+.chicken-burger-menu3{
+  width: 344px;
+  height: 384px;
+  background-color: #fff;
+  border: solid 3px #c30013;
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 40px;
+  position: absolute;
+  margin-top: 41px;
+  margin-left: 896px;
+}
+
+.chicken-burger-menu4{
+  width: 344px;
+  height: 384px;
+  background-color: #fff;
+  border: solid 3px #c30013;
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 40px;
+  position: absolute;
+  margin-top: 449px;
+  margin-left: 160px;
+}
+
+.chicken-burger-menu5{
+  width: 344px;
+  height: 384px;
+  background-color: #fff;
+  border: solid 3px #c30013;
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 40px;
+  position: absolute;
+  margin-top: 449px;
+  margin-left: 528px;
+}
+
+.chicken-burger-menu6{
+  width: 344px;
+  height: 384px;
+  background-color: #fff;
+  border: solid 3px #c30013;
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 40px;
+  position: absolute;
+  margin-top: 449px;
+  margin-left: 896px;
+}
+
+.chicken-burger-menu7{
+  width: 344px;
+  height: 384px;
+  background-color: #fff;
+  border: solid 3px #c30013;
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 40px;
+  position: absolute;
+  margin-top: 857px;
+  margin-left: 160px;
+}
+
+.chicken-burger-menu8{
+  width: 344px;
+  height: 384px;
+  background-color: #fff;
+  border: solid 3px #c30013;
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 40px;
+  position: absolute;
+  margin-top: 857px;
+  margin-left: 528px;
+}
+
+.chicken-burger-menu9{
+  width: 344px;
+  height: 384px;
+  background-color: #fff;
+  border: solid 3px #c30013;
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 40px;
+  position: absolute;
+  margin-top: 857px;
+  margin-left: 896px;
+}
+
+.menu-detail{
+  min-height: 1000px;
+  min-width: 1400px;
+  background-color: #fff;
+  position: relative;
+}
+
+.back{
+  padding-top: 44px;
+  margin-left: 204px;
+}
+
+.main-image{
+  margin-top: 56px;
+  margin-left: 160px;
+  position: absolute;
+}
+
+.main-image img{
+  width: 480px;
+  height: 376px;
+}
+
+.side-images{
+  padding-top: 472px;
+  margin-left: 160px;
+  position: absolute;
+}
+
+.side-images img{
+  width: 117px;
+  height: 92px;
+}
+
+.chicken-burger-menu-detail{
+  position: absolute;
+  margin-top: 83px;
+  margin-left: 740px;
+}
+
+.chicken-burger-menu-detail-title{
+  font-size: 16px;
+  color: #C30013;
+}
+
+.chicken-burger-menu-detail-sub{
+  font-size: 30px;
+  color: #C30013;
+  margin-top: 9px;
+}
+
+.chicken-burger-menu-detail-price{
+  font-size: 32px;
+  margin-top: 19px;
+}
+
+.chicken-burger-menu-detail-text{
+  font-size: 16px;
+  margin-top: 41px;
+  line-height: 30px;
+}
+
+.recommend{
+  min-height: 740px;
+  min-width: 1400px;
+}
